@@ -4,9 +4,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio site created for a MLH Hackathon.
   Full Stack Developer and Project Leader experienced in utilizing various technologies and programming languages to deliver effective and efficient results.
 baseurl: "/" 
-url: "https://rcolon100.github.io/Reynolds.colon/"
+url: "https://HACKB3ARD.github.io/Reynolds.colon/"
 twitter_username: Reynolds_Colon
-github_username:  rcolon100
+github_username:  HACKB3ARD
 
 sass:
   sass_dir: _sass
